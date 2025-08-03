@@ -43,5 +43,5 @@ streamlit run run_app.py
 
 ## Deployment link
 
-👉 [PodRAG Live App](https://your-streamlit-app-url.streamlit.app)
+👉 [PodRAG Live App](https://podrag-7454bkaymnavovhievjson.streamlit.app/)
 
