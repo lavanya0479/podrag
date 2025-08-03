@@ -31,19 +31,17 @@ A multimodal Retrieval-Augmented Generation (RAG) system that lets users upload 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/podrag.git
+git clone https://github.com/lavanya0479/podrag.git
 cd podrag
 
-# 2. (Optional) Create a virtual environment
-python -m venv venv
-# Activate it:
-# On Linux/macOS:
-source venv/bin/activate
-# On Windows:
-venv\Scripts\activate
-
-# 3. Install required packages
+# 2. Install required packages
 pip install -r requirements.txt
 
-# 4. Run the Streamlit app
+# 3. Run the Streamlit app
 streamlit run run_app.py
+```
+
+## Deployment link
+
+👉 [PodRAG Live App](https://your-streamlit-app-url.streamlit.app)
+
