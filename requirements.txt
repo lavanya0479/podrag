@@ -3,6 +3,6 @@ openai
 transformers
 sentence-transformers
 scikit-learn
-openai-whisper
+git+https://github.com/openai/whisper.git
 torch
 numpy
